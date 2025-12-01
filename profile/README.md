@@ -14,4 +14,4 @@
 # Ante
 ### by Antedotal
 
-Our solution helps you and your friends battle the greatest oppressive weapon of the 21st century (and beyond) - procrastination, and distraction.
+Our solution helps you and your friends battle the greatest oppressive weapon of the 21st century (and beyond) - procrastination and distraction.
